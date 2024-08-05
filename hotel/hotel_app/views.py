@@ -3,10 +3,13 @@ from django.http import HttpResponse
 from .models import ContactMessage
 
 
-'''
+def Admin(request):
+    return render(request, 'admin.html')
 def login_signup_view(request):
     return render(request, 'Register.html')
-'''
+
+def Home(request):
+    return render(request, 'Home.html')
 
 def contact_view(request):
     if request.method == 'POST':
