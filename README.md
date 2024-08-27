@@ -41,7 +41,7 @@ python manage.py runserver
 
 Akram Hammam – [@AkramHammam](https://github.com/akramhammam5) 
 
-Hady Hany - [@HadyHany]([(https://github.com/hadyhany23)) 
+Hady Hany - [@HadyHany](https://github.com/hadyhany23)
 
 Ahmed Hamouda - [@AhmedHamouda](https://twitter.com/dbader_org) 
 
